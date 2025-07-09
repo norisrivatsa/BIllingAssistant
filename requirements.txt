@@ -1,0 +1,22 @@
+dotenv
+langchain 
+langchain openai
+sqlalchemy
+mysql-connector-python
+pydantic
+pytz
+
+dotenv (>=0.9.9,<0.10.0)",
+    "sqlalchemy (>=2.0.40,<3.0.0)",
+    "mysql-connector-python (>=9.3.0,<10.0.0)",
+    "pydantic (>=2.11.3,<3.0.0)",
+    "pytz (>=2025.2,<2026.0)",
+    "langchain (>=0.3.24,<0.4.0)",
+    "langchain (>=0.3.24,<0.4.0)",
+    "openai (>=1.76.0,<2.0.0)",
+    "langgraph (>=0.3.34,<0.4.0)",
+    "langchain-community (>=0.3.22,<0.4.0)",
+    "pymysql (>=1.1.1,<2.0.0)",
+    "pymongo (>=4.12.0,<5.0.0)",
+    "langchain-openai (>=0.3.14,<0.4.0)",
+    "pillow (>=11.2.1,<12.0.0)"
